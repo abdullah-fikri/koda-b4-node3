@@ -1,0 +1,1 @@
+const getApi = require('./lib/getData');
